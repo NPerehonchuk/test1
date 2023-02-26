@@ -1,6 +1,4 @@
 12345
 
-345
-678.
-No information!
-Flowers are red
+Violets are blue
+Roses are red
